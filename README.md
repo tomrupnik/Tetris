@@ -7,11 +7,11 @@ V igri sva uporabila naslednje oblike oz. tetromine:
 
 ## Igranje igre:
 
-*	Za premik levo-desno se uporabljata A in D
-*	Za rotacijo lika v pozitivni smeri se uporablja Q
-*	Za rotacijo v negativni smeri se uporablja E
-*	Za hitro padanje lika se uporablja S
+*	Za premik levo-desno se uporabljata **A** in **D**
+*	Za rotacijo lika v pozitivni smeri se uporablja **Q**
+*	Za rotacijo v negativni smeri se uporablja **E**
+*	Za hitro padanje lika se uporablja **S**
 
 ## Avtorja:
-*	Jernej Renčelj
-*	Tom Rupnik Medjedovič
+* <em>Jernej Renčelj</em>
+* <em>Tom Rupnik Medjedovič</em>
